@@ -18,10 +18,10 @@ item.exsartagine.dough.name=Dough
 item.exsartagine.doughPizza.name=Pizza Dough
 item.exsartagine.doughBread.name=Bread Dough
 
-item.exsartagine.breadMeatRaw.name=Raw Meat Roll
+item.exsartagine.breadMeatRaw.name=Raw Meat Pasty
 item.exsartagine.breadVeggieRaw.name=Raw Vegetable Bread
 
-item.exsartagine.breadMeat.name=Meat Roll
+item.exsartagine.breadMeat.name=Meat Pasty
 item.exsartagine.breadVeggie.name=Vegetable Bread
 item.exsartagine.breadFine.name=Fine Bread
 
@@ -41,6 +41,26 @@ item.exsartagine.pizzaMeat.name=Meat Pizza
 item.exsartagine.pizzaSweet.name=Sweet Pizza
 item.exsartagine.pizzaChicken.name=Chicken Pizza
 item.exsartagine.pizzaFish.name=Fish Pizza
+
+item.exsartagine.spaghetti_raw.name=Raw Spaghetti
+item.exsartagine.spaghetti_cooked.name=Cooked Spaghetti
+item.exsartagine.spaghetti_sauced.name=Sauced Spaghetti
+item.exsartagine.spaghetti_bolognaise.name=Spaghetti Bolognese
+item.exsartagine.spaghetti_cheese.name=Spaghetti and Cheese
+item.exsartagine.spaghetti_veggie.name= Spaghetti and Vegetables
+
+item.exsartagine.dry_noodles.name=Noodles
+
+item.exsartagine.noodles_chicken.name=Uncooked Chicken Noodles
+item.exsartagine.noodles_meat.name=Uncooked Meat Noodles
+item.exsartagine.noodles_fish.name=Uncooked Fish Noodles
+item.exsartagine.noodles_veggie.name=Uncooked Veggie Noodles
+
+item.exsartagine.noodles_veggie_cooked.name=Veggie Noodle Soup
+item.exsartagine.noodles_meat_cooked.name=Meat Noodle Soup
+item.exsartagine.noodles_fish_cooked.name=Fish Noodle Soup
+item.exsartagine.noodles_chicken_cooked.name=Chicken Noodle Soup
+
 
 itemGroup.potsnpans=Pots 'n Pans
 itemGroup.exsartaginefoods=Ex Sartagine Foods
