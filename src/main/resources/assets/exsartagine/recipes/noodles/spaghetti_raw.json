@@ -1,0 +1,18 @@
+{
+    "type": "forge:ore_shapeless",
+    "group": "spaghetti",
+    "ingredients": [
+        {
+            "item": "exsartagine:dry_noodles"
+        },
+        {     
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "result": {
+        "item": "exsartagine:spaghetti_raw"
+    }
+}

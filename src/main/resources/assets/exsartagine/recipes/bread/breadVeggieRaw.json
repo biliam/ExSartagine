@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shapeless",
+    "group": "exsartagine:bread",
+    
+    "ingredients": [
+        {
+           "ore": "foodDoughBread",
+           "type": "forge:ore_dict"
+        },
+        {
+            "ore": "cropVegetable", 
+            "type": "forge:ore_dict"
+        },
+        {
+            "ore": "cropVegetable", 
+            "type": "forge:ore_dict"
+        }
+    ],
+    "result": {
+        "item": "exsartagine:breadVeggieRaw"
+    }
+}

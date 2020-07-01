@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shapeless",
+    "group": "spaghetti",
+    "ingredients": [
+        {
+            "item": "exsartagine:dough"
+        },
+        {     
+            "ore": "dustSalt",
+            "type": "forge:ore_dict"
+        }
+    ],
+    "result": {
+        "item": "exsartagine:dry_noodles"
+    }
+}

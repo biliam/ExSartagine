@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shapeless",
+    "group": "noodles",
+    "ingredients": [
+        {
+            "item": "exsartagine:dry_noodles"
+        },
+        {     
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "ore": "cropVegetable",
+            "type": "forge:ore_dict"
+        }
+    ],
+    "result": {
+        "item": "exsartagine:noodles_veggie"
+    }
+}
